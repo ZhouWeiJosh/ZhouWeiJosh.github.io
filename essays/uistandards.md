@@ -20,7 +20,7 @@ With no foundation, especially in sports, jumping straight into the fancy stuff 
 
 ## Importance of Form
 
-
+The question of why not comes into play in many conversations. In this case specifically, "Why not do everything in HTML and CSS if they are the foundation of everything." Well to that I say why do you use math libraries and many others when you can write most of it yourself. UI frameworks are not going to be the end all be all for most projects. You can al
 
 
 ## The Running
