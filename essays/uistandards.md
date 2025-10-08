@@ -4,7 +4,7 @@ type: essay
 title: "Walking Before Running"
 # All dates must be YYYY-MM-DD format!
 date: 2025-10-08
-published: false
+published: true
 labels:
   - UI Frameworks
   - Bootstrap 5
@@ -12,7 +12,7 @@ labels:
   - CSS
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/standardmeme.png.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/bootstrapmeme.jpg">
 
 ## The Walking
 
