@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/designpattern.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/designpattern.jpg">
 
 ## A New Revelation
 
