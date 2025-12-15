@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/effortmeme.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/effortmeme.png">
 
 ## How did you make your effort estimates?
 
