@@ -17,9 +17,21 @@ The rapid emergence of AI chatbots is a relatively recent development, yet it ha
 
 ## Personal Experience with AI
 
-My personal experience with AI in ICS 314 has been mixed. Initially, I tried to avoid relying on AI too heavily because I wanted to develop my own understanding of the material. However, as the semester progressed and the workload increased especially with in class WODs and practice WODs it became difficult not to use AI due to time constraints and pressure from other courses. I frequently used AI to help understand WOD instructions or clarify concepts when I felt stuck, though I did not always find the responses immediately useful and often had to interpret or adjust them myself.
+### WODs and Practice WODs
 
-For essays, I primarily wrote them on my own and relied on my intuition for structure and grammar rather than using AI to generate content. Toward the end of the semester, especially during finals, I used AI more frequently for homework assignments and parts of the final project. I also used AI to learn concepts, ask questions during Discord discussions, and occasionally review code examples or explanations. While AI was useful for explaining code or suggesting solutions, I avoided directly copying generated code and instead used it as a reference to better understand how something might work.
+For Experience WODs, in-class practice WODs, and in-class WODs, I used AI sparingly at the beginning of the semester and more frequently as the workload increased. I primarily used AI to help structure and build my surfing-related website, especially when I was unsure how to implement certain features. While AI was helpful for getting started, the solutions often required adjustment to meet the specific WOD requirements.
+
+### Essays and Concept Learning
+
+For essays, I occasionally used AI to review or check my writing rather than generate content. I preferred writing essays myself and relied on my own judgment for structure and grammar. I also used AI to help understand difficult concepts or tutorials when the course material was unclear or when time was limited.
+
+### Coding and Final Project
+
+I used AI extensively during the final project to help with coding, debugging, and working through implementation details. AI was also used to generate code examples, explain existing code, and assist with writing code for assignments and WODs. In some cases, I used it to help document code or clarify what certain sections were doing.
+
+### Quality Assurance and Other Uses
+
+For quality assurance, I used AI to help identify and fix ESLint and linting errors in my WOD submissions. I did not use AI to ask or answer questions in class or on Discord, nor did I use it to generate or respond to smart questions. Aside from these uses, I did not rely on AI for additional tasks outside of the requirements of ICS 314.
 
 ## Impact on Learning and Understanding
 
