@@ -20,7 +20,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "ROS2", "Javascript (Novice)", "ReactJS (Novice)", "HTML (Novice)" ]
+      "keywords": [ "C", "C++", "ROS2", "Javascript (Novice)", "NextJS (Novice)", "HTML (Novice)", "React (Novice)" ]
     },
     {
       "name": "Toolsets/OS",
