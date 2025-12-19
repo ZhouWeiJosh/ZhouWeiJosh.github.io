@@ -4,7 +4,7 @@ type: essay
 title: "Designer in Training"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-03
-published: true
+published: false
 labels:
   - Engineering
   - Design Patterns
