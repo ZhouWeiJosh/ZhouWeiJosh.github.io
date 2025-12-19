@@ -10,6 +10,8 @@ labels:
   - Software Engineering
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/softmeme.jpg">
+
 ## Moving from the Screen to the Ring
 
 Incorporated into our daily lives are little routines that compound over time. Think exercise or meditation all things that yield a positive impact on our lives. And by being consistent and true to those routines, brings us fruitful rewards to remaining aspects of our lives. Thus brings me to the point of developing software engineering skills, because despite all of the seemingly enclosed environment we see ourselves in the course, it serves a greater purpose within many other aspects. Giving credit to the most important is developing a professional sense of stability and continuity. 
