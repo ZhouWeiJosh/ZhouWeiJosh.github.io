@@ -22,3 +22,5 @@ Because this was a group project, credit goes to my teammates Jia Jun Li, Lawren
 Through this project, I learned that working in a group can be challenging, especially when there is no clear, shared vision of what needs to be done. While it is unrealistic to anticipate every issue beforehand, having a solid plan and general consensus early on makes the process significantly smoother. Without that foundation, the difficulty increases rapidly. I also found it challenging to work with code written by others that could potentially conflict with my own, even when working within separate branches. This required careful coordination and testing to ensure everything functioned correctly. Overall, this experience helped me better understand the importance of communication, planning, and caution when collaborating on group software projects.
 
 Here is the Github organization: [Manoa Guesser](https://github.com/manoa-guesser)
+
+In collaboration with ChatGPT for both grammar checking and proof reading.
