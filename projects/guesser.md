@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoag2.png
+image: img/manoag3.png
 title: "Manoa Guesser"
 date: 2025
 published: true
@@ -13,32 +13,12 @@ labels:
 summary: "The UH rover robotics team in which I serve as the principle lead for the Guidance, Navigation, and Control subsystem."
 ---
 
-<img class="img-fluid" src="../img/rover_desert.jpg">
+The University of Hawaiʻi at Mānoa is a fairly large campus, and with that size comes difficulty navigating it especially for incoming freshmen. With that in mind, why not provide a fun and unique way to explore the campus while also making it competitive? This is where Manoa Guesser comes in. The application presents users with an image of a random location on campus, and the player must determine where that location is on a map. Since images can also be provided by users, the game is community-driven as well. This encourages students to have fun while discovering new places to study or hang out. Additionally, given how competitive some people can be, the leaderboard feature pushes players to improve their knowledge of campus and aim for the top rankings.
 
-Team Robotic Space Exploration, Team RoSE, is the robotics team in the University of Hawaii at Manoa which specializes in creating a mock Mars rover for a international competition called URC, University Rover Challenge. 
+Because this was a group project, credit goes to my teammates Jia Jun Li, Lawrence Zheng, and Colbren Fujimoto. My primary contribution was creating and implementing the leaderboard system and handling how score data was retrieved from the game portion of the website. This involved designing a schema model to store scores in an array so they could be reused later. After determining how scores would be calculated for each round, the data was routed to the database and stored with the corresponding user. This structure allowed me to perform additional calculations, such as filtering scores by best and averaging performance. I also worked on styling the leaderboard so it did not appear overly simple. I created distinct cards for the top three players, each displaying their name and medal placement, with the remaining scores shown below. These elements update dynamically based on the selected filters. This design emphasizes the competitive nature of the game and allows different players to be highlighted depending on their performance. A screenshot of the leaderboard is included below.
 
-The competition is broken down into four main missions: 
+<img class="img-fluid" src="../img/lead.png">
 
-- **Science**
+Through this project, I learned that working in a group can be challenging, especially when there is no clear, shared vision of what needs to be done. While it is unrealistic to anticipate every issue beforehand, having a solid plan and general consensus early on makes the process significantly smoother. Without that foundation, the difficulty increases rapidly. I also found it challenging to work with code written by others that could potentially conflict with my own, even when working within separate branches. This required careful coordination and testing to ensure everything functioned correctly. Overall, this experience helped me better understand the importance of communication, planning, and caution when collaborating on group software projects.
 
-  A mission that involves collecting a soil sample from various sites to preform basic science evaluation of the sample onboard. In order to discover if there were any microbial life that was acquired from the sample sites.
-
-- **Delivery**
-
-  A teleoperated mission that involves the rover finding, picking up, and delivering objects to astronauts on the field while also traversing through terrain of increasing difficulty.
-
-- **Equipment Servicing**
-
-  A teleoperated mission that requires the rover to interact with a mock lander to preform a certain task, including undoing a latch, opening a drawer, and typing in a launch key. Culmating in the precise movement of both the robotic arm and differential drive.
-
-- **Autonomous Navigation**
-
-  The rover autonomously must travel to two GNSS location, three post with AR tags, and two objects which requires a careful balance of sensors to approximate its location and movement.
-
-Initially, I joined as a way to continue the passion I had towards the field of robotics. And through this student lead project, I was able to learn more about C++ and the framework ROS/ROS2. The ROS, robot operating system, framework is a framework used for building robotic systems. It essentially works by having publishers and subscribers to communicate data between the different sensors within the robot. Specifically we are using the sequel to ROS, ROS2 to implement our own robotic system for the rover. During my first year, I primilarily worked under my lead on developing software for getting GPS coordinates for feeding into the Extended Kalman Filter.
-
-This past school year, I took on more of a leadership role that involved management of the entire software team. Including running weekly meetings, tracking the progess of the different sub-disciplines, and of course developing the software, mostly the differential drive for me. Though that only describes only this sub-discipline as we also have the mechanical and electrical team.
-
-Here's a quick video that encapsulates the progress made last school year: [Team RoSE URC 2025 SAR](https://www.youtube.com/watch?v=bVW3kchtqlg)
-
-Here is the Github organization: [Team RoSE](https://github.com/RoboticSpaceExploration)
+Here is the Github organization: [Manoa Guesser](https://github.com/manoa-guesser)
